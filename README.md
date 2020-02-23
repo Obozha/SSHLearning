@@ -43,3 +43,10 @@
   - S2SH整合开发
   - Spring整合JPA
   - Spring、SpringMVC、MyBatis），再到Spring Boot，再到如今如火如荼的Spring Cloud
+
+需要补充的基础
+
+- 集合
+- 泛型
+- 枚举
+- UtilsAPI的使用
