@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "F:\\openbilibili-go-common"
+		},
+		{
+			"path": "D:\\blog"
 		}
 	],
 	"settings": {
